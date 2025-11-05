@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom small utilities */
+html { height: 100%; }
+body { min-height: 100vh; }
